@@ -8,3 +8,5 @@
 User have to download:
 1. <a href="http://ifcopenshell.org/ifcconvert" target="_blank">IfcConvertr</a>
 2. <a href="http://ifcopenshell.org/python" target="_blank">ifcOpenShell-python</a>
+## Test_model
+We offer two simple test models
